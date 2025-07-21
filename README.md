@@ -61,3 +61,7 @@ Interactive dashboard for analyzing complex datasets with beautiful charts, real
 I'm always excited to collaborate on interesting projects or discuss new opportunities. Feel free to reach out!
 
 [Get In Touch](kamundiasimon8@gmail.com)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
