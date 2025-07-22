@@ -1,7 +1,7 @@
 # **Simon Kamundia**
 <pre>
 <p align="center">
-  <img src="Simon.gif" alt="Avatar" style="width: 100%; max-width: 80%;">
+  <img src="SimonK .gif" alt="Avatar" style="width: 100%; max-width: 80%;">
 </p>
 </pre>
 **Full Stack Developer & UI/UX enthusiast**
