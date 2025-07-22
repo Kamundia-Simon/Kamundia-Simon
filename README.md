@@ -64,7 +64,4 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 [Get In Touch](mailto:kamundiasimon8@gmail.com)
 
 ### 😅 Comedy Centre 
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Joke" / style="width: 100%; max-width: 80%;>
-</div>
-
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke of the day" width="600" />
